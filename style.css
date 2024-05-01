@@ -20,18 +20,6 @@ body {
     perspective: 1000px;
 }
 
-.title{
-    position: absolute;
-    display: flex;
-    color: #00fffa;
-    width: 500px;
-    align-items: start;
-    justify-content: center;
-    top: -50%;
-    font-weight: 900;
-    font-size: 40px;
-}
-
 .night {
     position: fixed;
     left: 50%;
